@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D4914AA462F677080E3114CFD66C18991494B8B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1D673F1251020882AB4FBCBEA497EE459BA837FA" : 0,
+    "D4914AA462F677080E3114CFD66C18991494B8B4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF07DCEC-203E-469B-8776-236F7F77FBFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1D673F1251020882AB4FBCBEA497EE459BA837FA" : "",
+    "D4914AA462F677080E3114CFD66C18991494B8B4" : "YansRuntimeTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YansRuntime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YansRuntime.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YanShby\/YansPractice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D673F1251020882AB4FBCBEA497EE459BA837FA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YanShby\/YansRuntimeTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4914AA462F677080E3114CFD66C18991494B8B4"
+    }
+  ]
+}
